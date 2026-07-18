@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.1.1/ThreadMind_Setup.exe",
-  "sha256": "2ae9470edbc6a2613ad65da2c15bf475596c2d4bd071470e1c0b99ca358b50f6",
-  "message": "🔧 v2.1.1 업데이트\n🛠️ 설치 오류 해결 — 프로그램이 켜져 있어도 자동으로 닫고 설치\n🔁 반하리·댓글 답글·프로젝트 태그 등 v2.1.0 신기능 포함"
+  "version": "2.1.2",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.1.2/ThreadMind_Setup.exe",
+  "sha256": "e017e432113bf158caae4a79c87e51b57db46fa722728e5b6379794f803e7dda",
+  "message": "🔑 v2.1.2 업데이트 (중요)\n✅ 라이선스 인증 오류 해결 — 정품 키를 넣어도 체험 만료가 뜨던 문제 수정\n🛠️ 설치 오류 해결 — 프로그램이 켜져 있어도 자동으로 닫고 설치\n🔁 반하리·댓글 답글·프로젝트 태그 등 신기능 포함"
 }
