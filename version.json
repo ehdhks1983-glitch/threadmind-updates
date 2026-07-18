@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.1.0/ThreadMind_Setup.exe",
-  "sha256": "30d164d918f44ed47f2ff4b4ca633d42d8a49ab34d861139c9e964734ba7bcab",
-  "message": "🎉 v2.1.0 업데이트!\n🔁 반하리 — 내 글에 반응한 사람에게 자동 답방\n💬 내 글 댓글에 AI 답글 자동\n🏷️ 스하리 프로젝트 태그 발행\n📊 오늘 활동량(좋아요·댓글·리포스트·팔로우) 표시\n🔧 발행·댓글 안정성 대폭 개선"
+  "version": "2.1.1",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.1.1/ThreadMind_Setup.exe",
+  "sha256": "2ae9470edbc6a2613ad65da2c15bf475596c2d4bd071470e1c0b99ca358b50f6",
+  "message": "🔧 v2.1.1 업데이트\n🛠️ 설치 오류 해결 — 프로그램이 켜져 있어도 자동으로 닫고 설치\n🔁 반하리·댓글 답글·프로젝트 태그 등 v2.1.0 신기능 포함"
 }
