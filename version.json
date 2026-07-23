@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.2.0/ThreadMind_Setup.exe",
-  "sha256": "aeeaab4cc6c4fec5b89a7af3f1c06d0a261bd96607daf4bb9afe74515d695946",
-  "message": "🚀 v2.2.0 업데이트 (성장 & 관리)\n📈 성장 리포트 — 매일 저녁 팔로워 증감·활동량 텔레그램\n🧹 맞팔 정리 — 안 맞팔한 사람 자동 언팔 (옵션)\n🧠 글 학습 — 반응 좋은 내 글 스타일 자동 반영\n📝 주간 글 승인 — 7개 미리 생성 후 승인 발행\n(v2.1.3 신규계정 워밍업 포함)"
+  "version": "2.2.1",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.2.1/ThreadMind_Setup.exe",
+  "sha256": "2e98fd353037b015d7677106490607df00086f33dda2b866cd3069fb59ea4517",
+  "message": "✍️ v2.2.1 업데이트 (AI 글쓰기 개선)\n📝 글이 짧고 핵심 있게 — 억지로 길이 채우던 문제 수정, 늘어지지 않는 글\n🎯 최신 스레드 인기글 구조 반영 (문단=중심 문장 1개)\n(v2.2.0 성장·관리 기능 포함)"
 }
