@@ -1,6 +1,6 @@
 {
-  "version": "2.3.2",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.2/ThreadMind_Setup.exe",
-  "sha256": "2a0bfcb4e96294afb42b401b3de57999c5cbe6231635eeb32729c9f5735dfe04",
-  "message": "🔧 v2.3.2 (자동 설치 안정화 + 쉬운 화면)\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n\n※ 혹시 설치 창이 안 뜨면\n1) 파일 탐색기 주소창에  %TEMP%  입력 후 Enter\n2) ThreadMind_Setup.exe 를 두 번 클릭\n→ 이 버전 설치 후부터는 자동으로 설치됩니다"
+  "version": "2.3.3",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.3/ThreadMind_Setup.exe",
+  "sha256": "0f1f5020995fab87d671285a8c4e1f7b6a092e30fd49dd8c58d8b799052fe303",
+  "message": "🔧 v2.3.3 (정품 인증 안정화 — 중요 업데이트)\n✅ 업데이트 후 정품 인증이 풀리던 문제 해결 (기존 키 그대로 사용)\n✅ 쉬운 화면 · 설정 마법사 포함\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행\n※ 실행 시 DLL 오류가 뜨면 프로그램을 한 번 더 실행"
 }
