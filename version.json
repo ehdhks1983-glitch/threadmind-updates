@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.1/ThreadMind_Setup.exe",
-  "sha256": "e088031b31611e7b8a3ab26f43e241b245fe7d0cacd4979986f6e470738dd773",
-  "message": "🔧 v2.3.1 (자동 설치 오류 수정)\n✅ 파일은 받아졌는데 설치 창이 안 뜨던 문제 해결\n📁 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 후 ThreadMind_Setup.exe 실행\n(v2.3.0 쉬운 화면·설정 마법사 포함)"
+  "version": "2.3.2",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.2/ThreadMind_Setup.exe",
+  "sha256": "2a0bfcb4e96294afb42b401b3de57999c5cbe6231635eeb32729c9f5735dfe04",
+  "message": "🔧 v2.3.2 (자동 설치 안정화 + 쉬운 화면)\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n\n※ 혹시 설치 창이 안 뜨면\n1) 파일 탐색기 주소창에  %TEMP%  입력 후 Enter\n2) ThreadMind_Setup.exe 를 두 번 클릭\n→ 이 버전 설치 후부터는 자동으로 설치됩니다"
 }
