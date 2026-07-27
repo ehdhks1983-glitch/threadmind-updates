@@ -1,6 +1,6 @@
 {
-  "version": "2.2.1",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.2.1/ThreadMind_Setup.exe",
-  "sha256": "2e98fd353037b015d7677106490607df00086f33dda2b866cd3069fb59ea4517",
-  "message": "✍️ v2.2.1 업데이트 (AI 글쓰기 개선)\n📝 글이 짧고 핵심 있게 — 억지로 길이 채우던 문제 수정, 늘어지지 않는 글\n🎯 최신 스레드 인기글 구조 반영 (문단=중심 문장 1개)\n(v2.2.0 성장·관리 기능 포함)"
+  "version": "2.3.0",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.0/ThreadMind_Setup.exe",
+  "sha256": "9f8d9bcc35f13ccd89824ff3ca46d09a4fa3665c742134b570a2a73018b86421",
+  "message": "🎉 v2.3.0 (누구나 쓸 수 있게 확 쉬워졌어요)\n📱 큰 버튼 3개짜리 쉬운 화면이 기본이 됩니다\n🧭 처음 설정을 한 단계씩 안내하는 마법사 추가\n🚀 친구 늘리기는 두 가지만 고르면 바로 시작\n✍️ 주제 한 줄이면 AI가 써서 올려줍니다\n(기존 기능은 그대로, '고급 기능'에서 이용)"
 }
