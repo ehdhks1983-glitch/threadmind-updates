@@ -1,6 +1,6 @@
 {
-  "version": "2.3.4",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.4/ThreadMind_Setup.exe",
-  "sha256": "34dc4781eb225c586841bfaf7cdd4fa0de5837b876b1cb73fc4d2b69812b7965",
-  "message": "🚀 v2.3.4 (자동활동 개선 + 쿠팡파트너스)\n🙅 내 글에 스스로 댓글 달던 문제 해결\n⚡ 스하리 활동이 밀리던 문제 해결 (훨씬 부지런해짐)\n🛒 쿠팡파트너스 글쓰기 모드 추가 (링크는 공정위 문구와 함께 댓글로 자동)\n✍️ AI 글 구조 7종 랜덤 변주 — 매번 다른 글\n📰 뉴스 본문 인식 개선\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
+  "version": "2.3.6",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.6/ThreadMind_Setup.exe",
+  "sha256": "62e2a43f952b607d58727d51281a3705efb9be0e0bc305ce130b6f81216092b8",
+  "message": "🛠 v2.3.6 (중요 업데이트 — 꼭 받아주세요)\n✅ 정품 인증이 저절로 풀리던 문제 해결\n✅ 'Failed to load Python DLL' 등 실행 오류 해결\n⚡ 프로그램 시작이 훨씬 빨라집니다\n🔑 백업 AI 키 추가 (Gemini 한도 초과해도 글쓰기 계속)\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n※ 설치 방식이 바뀌어 설치가 조금 더 걸릴 수 있습니다\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
 }
