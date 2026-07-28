@@ -1,6 +1,6 @@
 {
-  "version": "2.3.6",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.6/ThreadMind_Setup.exe",
-  "sha256": "62e2a43f952b607d58727d51281a3705efb9be0e0bc305ce130b6f81216092b8",
-  "message": "🛠 v2.3.6 (중요 업데이트 — 꼭 받아주세요)\n✅ 정품 인증이 저절로 풀리던 문제 해결\n✅ 'Failed to load Python DLL' 등 실행 오류 해결\n⚡ 프로그램 시작이 훨씬 빨라집니다\n🔑 백업 AI 키 추가 (Gemini 한도 초과해도 글쓰기 계속)\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n※ 설치 방식이 바뀌어 설치가 조금 더 걸릴 수 있습니다\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
+  "version": "2.3.8",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.8/ThreadMind_Setup.exe",
+  "sha256": "c9c1557df8ae9295f547f6ed0fb822d2e5383719214abffcd6877317951d0de2",
+  "message": "🛠 v2.3.8 대규모 안정화 (꼭 받아주세요)\n✅ 인증키가 안 먹히던 문제 해결 (줄바꿈 섞여도 인증됨)\n✅ 진행 인원 숫자가 실시간으로 올라가고, 도중에 꺼도 안 사라집니다\n✅ 내 글에 내가 댓글 달던 문제 · '중지' 눌러도 계속 활동하던 문제 해결\n✅ 하루 한도가 재시작마다 초기화되던 문제 해결 (계정 안전)\n🛒 쿠팡 글에 상품 사진 자동/직접 첨부\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
 }
