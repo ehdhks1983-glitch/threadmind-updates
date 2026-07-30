@@ -1,6 +1,6 @@
 {
-  "version": "2.3.10",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.10/ThreadMind_Setup.exe",
-  "sha256": "e8d1121119b5955de490cfd63d355afab0935102e10b54af6c023e4f19b15387",
-  "message": "🔧 v2.3.10 긴급 수정 (꼭 받아주세요)\n🔑 새로 발급한 구글 AI 열쇠(AQ.로 시작)가 '구글 키가 아닌 것 같다'며 막히던 문제 해결\n✅ 저장 직후 실제 연결까지 자동 확인\n📰 뉴스 수익 기능 · AI 모델 자동 전환 포함 (v2.3.9)\n\n[예]를 누르면 진행 창이 뜨고 파일을 받습니다. (약 390MB, 몇 분 소요)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
+  "version": "2.3.11",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.11/ThreadMind_Setup.exe",
+  "sha256": "0f4c858cc4a6f01ca5035ab61bdcac65690ccd4acea661ce373ba32f8cb51a41",
+  "message": "🛠 v2.3.11 안정화 (꼭 받아주세요)\n⬇️ 업데이트가 '받고 나서 사라지던' 문제 해결 — 이제 받으면 앱이 닫히고 자동 설치 후 새 버전으로 다시 켜집니다\n🙅 내 글에 내가 좋아요·댓글 달던 문제 다중 차단 (계정 확인 후에만 활동)\n🛒 쿠팡: 단축링크→상품주소 변환, 사진 최대 8장 선택, 지어내는 글 차단\n📰 뉴스픽: 깨진 글·잘린 문장 자동 차단\n🔑 Gemini 키 검증 정확도 개선\n\n[예]를 누르면 진행 창이 뜨고, 다 받으면 자동으로 설치됩니다 (약 390MB)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
 }
