@@ -1,6 +1,6 @@
 {
-  "version": "2.3.9",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.9/ThreadMind_Setup.exe",
-  "sha256": "6dd4082a17d4b8e1ba0164ef2406bfb880770d1ceb3afd5103c3d36277fa4525",
-  "message": "💰 v2.3.9 (뉴스 수익 기능 + 안정화)\n📰 뉴스픽 링크만 넣으면 수익 글 자동 발행 (예약 큐로 하루 분산)\n⬇️ 업데이트 진행률이 화면에 보입니다 (안 되는 줄 알고 끄는 일 없게)\n🔑 AI 열쇠 잘못 붙여넣으면 자동 교정 + 이유 안내\n🤖 AI 모델이 종료돼도 자동으로 다음 모델로 전환\n\n[예]를 누르면 진행 창이 뜨고 파일을 받습니다. (약 390MB, 몇 분 소요)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
+  "version": "2.3.10",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.10/ThreadMind_Setup.exe",
+  "sha256": "e8d1121119b5955de490cfd63d355afab0935102e10b54af6c023e4f19b15387",
+  "message": "🔧 v2.3.10 긴급 수정 (꼭 받아주세요)\n🔑 새로 발급한 구글 AI 열쇠(AQ.로 시작)가 '구글 키가 아닌 것 같다'며 막히던 문제 해결\n✅ 저장 직후 실제 연결까지 자동 확인\n📰 뉴스 수익 기능 · AI 모델 자동 전환 포함 (v2.3.9)\n\n[예]를 누르면 진행 창이 뜨고 파일을 받습니다. (약 390MB, 몇 분 소요)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
 }
