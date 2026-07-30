@@ -1,6 +1,6 @@
 {
-  "version": "2.3.8",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.8/ThreadMind_Setup.exe",
-  "sha256": "c9c1557df8ae9295f547f6ed0fb822d2e5383719214abffcd6877317951d0de2",
-  "message": "🛠 v2.3.8 대규모 안정화 (꼭 받아주세요)\n✅ 인증키가 안 먹히던 문제 해결 (줄바꿈 섞여도 인증됨)\n✅ 진행 인원 숫자가 실시간으로 올라가고, 도중에 꺼도 안 사라집니다\n✅ 내 글에 내가 댓글 달던 문제 · '중지' 눌러도 계속 활동하던 문제 해결\n✅ 하루 한도가 재시작마다 초기화되던 문제 해결 (계정 안전)\n🛒 쿠팡 글에 상품 사진 자동/직접 첨부\n\n[예]를 누르면 파일을 받아 설치합니다. (약 390MB)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
+  "version": "2.3.9",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.9/ThreadMind_Setup.exe",
+  "sha256": "6dd4082a17d4b8e1ba0164ef2406bfb880770d1ceb3afd5103c3d36277fa4525",
+  "message": "💰 v2.3.9 (뉴스 수익 기능 + 안정화)\n📰 뉴스픽 링크만 넣으면 수익 글 자동 발행 (예약 큐로 하루 분산)\n⬇️ 업데이트 진행률이 화면에 보입니다 (안 되는 줄 알고 끄는 일 없게)\n🔑 AI 열쇠 잘못 붙여넣으면 자동 교정 + 이유 안내\n🤖 AI 모델이 종료돼도 자동으로 다음 모델로 전환\n\n[예]를 누르면 진행 창이 뜨고 파일을 받습니다. (약 390MB, 몇 분 소요)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
 }
