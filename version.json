@@ -1,6 +1,6 @@
 {
-  "version": "2.3.11",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.3.11/ThreadMind_Setup.exe",
-  "sha256": "0f4c858cc4a6f01ca5035ab61bdcac65690ccd4acea661ce373ba32f8cb51a41",
-  "message": "🛠 v2.3.11 안정화 (꼭 받아주세요)\n⬇️ 업데이트가 '받고 나서 사라지던' 문제 해결 — 이제 받으면 앱이 닫히고 자동 설치 후 새 버전으로 다시 켜집니다\n🙅 내 글에 내가 좋아요·댓글 달던 문제 다중 차단 (계정 확인 후에만 활동)\n🛒 쿠팡: 단축링크→상품주소 변환, 사진 최대 8장 선택, 지어내는 글 차단\n📰 뉴스픽: 깨진 글·잘린 문장 자동 차단\n🔑 Gemini 키 검증 정확도 개선\n\n[예]를 누르면 진행 창이 뜨고, 다 받으면 자동으로 설치됩니다 (약 390MB)\n※ 설치 창이 안 뜨면: 탐색기 주소창에 %TEMP% 입력 → ThreadMind_Setup.exe 실행"
+  "version": "2.4.10",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.4.10/ThreadMind_Setup.exe",
+  "sha256": "35834161c8c709a13a78889c4698313f0dd8de1396d66bc1c9184c26446d5409",
+  "message": "🛠 v2.4.10 댓글·AI 문체 안정화 (업데이트 권장)\n🙅 내 글이나 내 댓글에 자동 댓글이 달리지 않도록 대상 확인 강화\n🎯 화면 순번이 바뀌어도 확인한 상대 글에만 댓글 작성\n🧹 좋아요 알림 등 잘못된 화면 요소를 댓글 대상으로 잡는 문제 차단\n✍️ Gemini 3.6 시스템 지시 전달 개선으로 글과 댓글 문체를 더 자연스럽게 수정\n📦 인증 및 설정 UI 모듈 패키징 보강"
 }
