@@ -1,6 +1,6 @@
 {
-  "version": "2.4.10",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.4.10/ThreadMind_Setup.exe",
-  "sha256": "35834161c8c709a13a78889c4698313f0dd8de1396d66bc1c9184c26446d5409",
-  "message": "🛠 v2.4.10 댓글·AI 문체 안정화 (업데이트 권장)\n🙅 내 글이나 내 댓글에 자동 댓글이 달리지 않도록 대상 확인 강화\n🎯 화면 순번이 바뀌어도 확인한 상대 글에만 댓글 작성\n🧹 좋아요 알림 등 잘못된 화면 요소를 댓글 대상으로 잡는 문제 차단\n✍️ Gemini 3.6 시스템 지시 전달 개선으로 글과 댓글 문체를 더 자연스럽게 수정\n📦 인증 및 설정 UI 모듈 패키징 보강"
+  "version": "2.5.2",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.5.2/ThreadMind_Setup.exe",
+  "sha256": "3862b015e3e25da267de337e02c085da288aa1e2d75b0e682933ff9e06e3b80a",
+  "message": "🛠 v2.5.2 댓글·Gemini 안정화 업데이트\n🙅 내 글이나 내 댓글에 자동 댓글이 달리지 않도록 대상 확인 강화\n🎯 확인한 상대 게시물 본문 인식과 답글 제한 처리 보강\n✍️ Gemini 3.6 글·댓글 문체를 더 자연스럽게 개선\n💳 선불 크레딧 소진을 무료 한도 소진으로 잘못 표시하던 문제 수정\n⏱ 결제 한도에서는 여러 모델을 장시간 재시도하지 않도록 개선"
 }
