@@ -1,6 +1,6 @@
 {
-  "version": "2.5.2",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.5.2/ThreadMind_Setup.exe",
-  "sha256": "3862b015e3e25da267de337e02c085da288aa1e2d75b0e682933ff9e06e3b80a",
-  "message": "🛠 v2.5.2 댓글·Gemini 안정화 업데이트\n🙅 내 글이나 내 댓글에 자동 댓글이 달리지 않도록 대상 확인 강화\n🎯 확인한 상대 게시물 본문 인식과 답글 제한 처리 보강\n✍️ Gemini 3.6 글·댓글 문체를 더 자연스럽게 개선\n💳 선불 크레딧 소진을 무료 한도 소진으로 잘못 표시하던 문제 수정\n⏱ 결제 한도에서는 여러 모델을 장시간 재시도하지 않도록 개선"
+  "version": "2.6.0",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.6.0/ThreadMind_Setup.exe",
+  "sha256": "f490c5ec7147e3a8e6349a87fe8097149446799f795a1ef7382672a2fcc6c33a",
+  "message": "🚀 v2.6.0 수익화·안정화 업데이트\n💰 쿠팡 파트너스 실적을 연동해 수익이 난 소재를 우선 재활용\n🔗 예약 발행과 재활용에서도 원본 상품 링크·성과 정보 유지\n🛡 일부 실적 조회 실패 시 기존 주문·매출 기록을 안전하게 보존\n🙅 내 글·내 댓글 자동 반응 차단과 대상 확인 안정화\n✍️ Gemini 글·댓글 문체와 한도 오류 안내 개선"
 }
