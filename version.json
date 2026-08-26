@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.6.0/ThreadMind_Setup.exe",
-  "sha256": "f490c5ec7147e3a8e6349a87fe8097149446799f795a1ef7382672a2fcc6c33a",
-  "message": "🚀 v2.6.0 수익화·안정화 업데이트\n💰 쿠팡 파트너스 실적을 연동해 수익이 난 소재를 우선 재활용\n🔗 예약 발행과 재활용에서도 원본 상품 링크·성과 정보 유지\n🛡 일부 실적 조회 실패 시 기존 주문·매출 기록을 안전하게 보존\n🙅 내 글·내 댓글 자동 반응 차단과 대상 확인 안정화\n✍️ Gemini 글·댓글 문체와 한도 오류 안내 개선"
+  "version": "2.7.3",
+  "download_url": "https://github.com/ehdhks1983-glitch/threadmind-updates/releases/download/v2.7.3/ThreadMind_Setup.exe",
+  "sha256": "e1e060766d126f0a4cab0dc552db2503d147b9d3b57e624ae714b0e4ae107c9e",
+  "message": "🚀 v2.7.3 쉬운 글쓰기·쿠팡 안정화 업데이트\n🖱 쉬운 글쓰기 창 어디서든 마우스 휠로 위아래 이동\n↕ 빈 공간을 왼쪽 마우스로 끌어서 화면 이동\n✍️ 긴 AI 초안은 글 안을 먼저 움직인 뒤 전체 화면으로 자연스럽게 연결\n🛍 쿠팡 링크 한 칸으로 상품명·사진 자동 확인과 간편 글쓰기\n🔗 본문 발행 뒤 링크 댓글 대상 검증·재시도 안전성 개선"
 }
